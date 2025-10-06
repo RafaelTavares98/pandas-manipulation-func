@@ -49,8 +49,9 @@ func start
 Abra: http://localhost:7071/api/PandasManipulationFunc
 
 ## **Resultado esperado: tabela HTML com os dados processados.**
+<img width="496" height="279" alt="image" src="https://github.com/user-attachments/assets/810b2f35-6a73-49d5-9bcd-fd8785746145" />
 
-img width="491" height="284" alt="image" src="[https://github.com/user-attachments/assets/dd099040-e36f-4cf1-80e1-d775751e0e22](https://i.imgur.com/GTYfCCt.png)" />
+
 
 
 

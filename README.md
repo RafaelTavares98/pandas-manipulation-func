@@ -56,6 +56,7 @@ Abra: http://localhost:7071/api/PandasManipulationFunc
 
 
 ## **Erros comuns e correção**
+```bash
 – ValueError/JSON vazio: não use req.get_json(); esta função busca do GitHub.
 – ModuleNotFoundError: rode pip install -r requirements.txt.
 – Breakpoint não ativa: execute com F5 no modo “Azure Functions (Python)”, não “Python File”.
